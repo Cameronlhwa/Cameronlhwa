@@ -2,6 +2,7 @@
 - 👀 I’m interested in technology and coding.
 - 🌱 I’m currently studying Computer Engineering at the University of Waterloo
 - 📫 How to reach me: Cameronlimhwa@gmail.com
+- 🖥️ Currently working on: [cameronlim.com](https://www.cameronlim.com/)
 - ⚡ Fun fact: I love retro technology like Gameboys and iPods!
 
 <!---
